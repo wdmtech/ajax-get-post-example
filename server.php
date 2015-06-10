@@ -19,8 +19,3 @@
         // This is a GET request, so do the following:
         echo("GET request successful!");
     }
-
-
-
-
-
